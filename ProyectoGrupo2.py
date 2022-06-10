@@ -1,5 +1,4 @@
 import datetime
-import string 
 
 """La clase principal es superCine"""
 class superCine:
